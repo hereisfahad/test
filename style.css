@@ -1,0 +1,19 @@
+body{
+	text-align: center;
+	margin-top: 200px;
+}
+
+#timelabe{
+	font-family: "lato";
+	font-size: 100px;
+	font-weight: 300;
+}
+
+button{
+	width: 100px;
+	height: 30px
+}
+
+button:hover{
+	cursor: pointer;
+}
